@@ -1,0 +1,117 @@
+<DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scle=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F545357836123000014%2F&psig=AOvVaw3uaf3DYUorXw6Y6aQTvRtg&ust=1725425414791000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjW89v8pYgDFQAAAAAdAAAAABAZ"  style="width:300;height:200;"> <!--boot-strap-->
+    <title>XYZ Brand ||Welcome All</title>
+    
+</head>
+<body>
+<!--Nav Bar -->
+<div class="nav-bar">
+  <ul class="nav-bar-list">
+    <li class="nav-item"><a href="#">Home</a></li>
+    <li class="nav-item"><a href="#about">About us </a></li>
+    <li class="nav=item"><a href="#shop">Shop </a></li>
+    <li class="nav-item"><a href="#support">Expert Support</a></li>
+    <li class="nav-item"><a href="#contact">Contact Us</a></li>
+  </ul>
+</div>
+
+<!--MAIN PAGE-->
+<div class="bg">
+
+<section class="main">
+  <h1 class="text">
+    <span class="text1"> The Beast</span> <br>
+    <span class="text2"> A1976 headset</span>
+</h1>
+
+  <a href="#"><button class="btn1">buy now</button></a>
+  <a href="#"><button class="btn2">shop all</button></a>
+</section>
+</div>
+<!--ABOUT PAGE-->
+<section class="about" id="about">
+<h1>ABOUT Product</h1>
+  <div class="display">
+    <p> <br><span>All-new technology</span> <br> <br>
+    News wrrite-ups offer a great way to let clients know about new products
+    and services, events, awards, and more. News write-ups offer a great way to let cilents know about
+     new products and services, events, awards, an
+    </p>
+  <img src="https://assets-prd.ignimgs.com/2022/07/06/budget-gaming-headset-1657123288874.jpg" style="width:400px;height:300px;"   alt="headsets" >
+</div>
+</section>
+
+<!--SHOP-->
+<section class="shop" id="shop">
+<h1>SHOP BY CATEGORY</h1>
+ <div class="display">
+  <div class="card">
+    <img src="https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?cs=srgb&dl=pexels-noah-erickson-97554-404280.jpg&fm=jpg" style="width:400px;height:300px"; alt="phone accessories" >
+    <div class="container">
+       <h4 class="caption">PHONES & ACCESSORIES</h4>
+       <P>High class, hiugh quality phones at afforable prices</P>
+    </div>
+  </div>
+  <div class="card">
+    <img src="https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg " style="width:400px;height:300px"; alt="computrt equipment">
+    <div class="container">
+      <h4 class="caption">COMPUTER EQUIPMENT</h4>
+      <P>ALL your desktop or laptop needs made available</P>
+    </div>
+  </div>
+  <div class="card">
+    <img src="https://dlcdnwebimgs.asus.com/gain/4BB18AEF-347E-4DB6-B78C-C0FFE1F20385/w750/h470" style="width:400px;height:300px"; alt="miscellaneous items">
+    <div class="container">
+      <h4 class="caption">MISCELLANEOUS ITEMS</h4>
+      <P> We've got more stuff to meet your techie needs</P>
+    </div>
+  </div>
+  </div>
+  <a href="#"><button class="btn">shop all </a>button></a>
+</section>
+
+<!--SUPPORT-->
+<section class="support" id="support">
+   <h1>Expert support</h1>
+   <div class="display">
+    <p>Faulty battery? slow laptop? We have in-house tech experts who can assist you.
+      <br>
+      <br>
+    Visit us in stores!</p>
+  <img src="https://m.economictimes.com/thumb/msid-109169147,width-1200,height-1200,resizemode-4,imgsize-64182/mobile-charger.jpg " style="width:500px;height:500px"; alt="support">
+   </div>
+  </section>
+
+<!--CONTACT-->
+<section class="contact" id="contact">
+  <h1>Contact Us</h1>
+  <div class="display">
+    <div class="add">
+      <h3>Our Locations:</h3>
+      <p>XYZ Street<br>
+         Hyderabad, Telengana<br>
+        India <br><br>
+      123 Street, <br>
+      Vijayawada, Andhra Pradesh<br>
+      India.
+     </p>
+    </div>
+  
+  <div class="con-img"> <img src="https://st4.depositphotos.com/26272580/31072/v/450/depositphotos_310724682-stock-illustration-contact-us-woman-with-headphones.jpg"  style="width:400px;height:300px"; alt="contact"; >
+  </div>
+  </div>
+</section>
+
+
+<!--FOOTER-->
+<footer class="footer">
+  <p>All copyrights are reserved 2023</p>
+  <p> &copy; created by varshitha mangalasetty</p>
+</footer>
+</body>
+</html>
